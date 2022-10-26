@@ -9,11 +9,11 @@
 - 관광, 교육, 쇼핑 등에서 실물 오브젝트를 보기위해 현장을 방문하기 불편한 경우가 있기 때문에 3D 보기와 AR 가상 배치로 이러한 어려움을 보완할 수 있습니다.
 <br><br>
 
-## 플랫폼 구성
+## 플랫폼 구성 
 1. 메인 화면은 모델 오브젝트의 리스트로 구성되어 있습니다.
 2. 오브젝트를 선택해 들어가면 3D 모델과 설명을 볼 수 있습니다.
-3. 또한 모바일에서는 AR로 보기 기능으로 실감나게 체험하듯이 볼 수 있습니다.
-
+3. 또한 모바일에서는 AR로 보기 기능으로 실물 물체를 체험하듯 실감나게 볼 수 있습니다.
+[문화유산 공공데이터 3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models)
 <p align="left"><img src="./imgs/demo_mainpage.jpg" width="90%">
 <img src="./imgs/demo_viewerpage.jpg" width="90%">
 
@@ -23,7 +23,7 @@
 
 ## 3D 및 AR 뷰어 모바일 웹페이지 예시
 - 도기 기마인물형 뿔잔 (우리나라 문화유산 공공데이터) <br>
-[3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/8662da3f-333f-4646-a67f-a604c28b8d52)   
+[문화유산 공공데이터 3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/8662da3f-333f-4646-a67f-a604c28b8d52)   
 
 <p align="left">
 <img src="./imgs/demo0_mainpage.jpg" width="30%" style="border: 1px solid lightgray;">
@@ -34,7 +34,7 @@
 <br>
 
 - 도기 서수형 명기 (우리나라 문화유산 공공데이터) <br> 
-[3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/9c2c3e89-53d6-453b-a5f3-fa164f2d5609) 
+[문화유산 공공데이터 3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/9c2c3e89-53d6-453b-a5f3-fa164f2d5609) 
  
 <p align="left">
 <img src="./imgs/demo0_mainpage.jpg" width="30%" style="border: 1px solid  lightgray;">
