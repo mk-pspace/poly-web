@@ -23,7 +23,7 @@
 
 ## 3D 및 AR 뷰어 모바일 웹페이지 예시
 - 도기 기마인물형 뿔잔 (우리나라 문화유산 공공데이터) <br>
-[문화유산 공공데이터 3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/8662da3f-333f-4646-a67f-a604c28b8d52)   
+[3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/8662da3f-333f-4646-a67f-a604c28b8d52)   
 
 <p align="left">
 <img src="./imgs/demo0_mainpage.jpg" width="30%" style="border: 1px solid lightgray;">
@@ -34,7 +34,7 @@
 <br>
 
 - 도기 서수형 명기 (우리나라 문화유산 공공데이터) <br> 
-[문화유산 공공데이터 3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/9c2c3e89-53d6-453b-a5f3-fa164f2d5609) 
+[3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models/9c2c3e89-53d6-453b-a5f3-fa164f2d5609) 
  
 <p align="left">
 <img src="./imgs/demo0_mainpage.jpg" width="30%" style="border: 1px solid  lightgray;">
