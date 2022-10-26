@@ -12,7 +12,7 @@
 ## 플랫폼 구성 
 1. 메인 화면은 모델 오브젝트의 리스트로 구성되어 있습니다.
 2. 오브젝트를 선택해 들어가면 3D 모델과 설명을 볼 수 있습니다.
-3. 또한 모바일에서는 AR로 보기 기능으로 실물 물체를 체험하듯 실감나게 볼 수 있습니다.
+3. 또한 모바일에서는 AR로 보기 기능으로 실물 물체를 체험하듯 실감나게 볼 수 있습니다.<br>
 [문화유산 공공데이터 3D 콘텐츠 데모 링크](https://www.k-heritage.xyz/models)
 <p align="left"><img src="./imgs/demo_mainpage.jpg" width="90%">
 <img src="./imgs/demo_viewerpage.jpg" width="90%">
