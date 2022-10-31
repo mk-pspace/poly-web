@@ -27,7 +27,7 @@
 
 <p align="left">
 <!-- <img src="./imgs/demo0_mainpage.jpg" width="30%" style="border: 3px solid black"> -->
-<img src="./imgs/demo1_3d_view0.jpg" width="30%" style="border: 3px solid black">
+<kbd><img src="./imgs/demo1_3d_view0.jpg" width="30%" style="border: 3px solid black"/></kbd>
 <img src="./imgs/demo1_ar_view0.jpg" width="30%" style="border: 3px solid black">
 <img src="./imgs/demo1_QRCodeImg.jpg" width="30%">
 <br>
